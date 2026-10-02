@@ -1,0 +1,1817 @@
+{
+  "deviceId": "ESP32-Ultrasonic-01",
+  "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+  "armedMode": true,
+  "motionActive": false,
+  "totalCount": 12,
+  "currentDistance": 22.7,
+  "thresholdCm": 50,
+  "lastDetectedAt": "2026-10-01T09:49:25.950Z",
+  "ledAlarmEnabled": true,
+  "alertThresholdCount": 200,
+  "mqttConnected": true,
+  "mqttBroker": "purplequeen-abb61cf6.a03.euc1.aws.hivemq.cloud",
+  "lastMqttMsgAt": "2026-10-01T09:49:25.953Z",
+  "events": [
+    {
+      "id": "evt-1790848165950-vgk6e",
+      "countIndex": 12,
+      "timestamp": "2026-10-01T09:49:25.950Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 29.8
+    },
+    {
+      "id": "evt-1790848158150-5m0ae",
+      "countIndex": 11,
+      "timestamp": "2026-10-01T09:49:18.149Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.5
+    },
+    {
+      "id": "evt-1790848155879-rqnsn",
+      "countIndex": 10,
+      "timestamp": "2026-10-01T09:49:15.879Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.7
+    },
+    {
+      "id": "evt-1790848144929-tlvuo",
+      "countIndex": 9,
+      "timestamp": "2026-10-01T09:49:04.929Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 34.1
+    },
+    {
+      "id": "evt-1790848142550-eknoh",
+      "countIndex": 8,
+      "timestamp": "2026-10-01T09:49:02.550Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.5
+    },
+    {
+      "id": "evt-1790848119700-onih2",
+      "countIndex": 7,
+      "timestamp": "2026-10-01T09:48:39.700Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.3
+    },
+    {
+      "id": "evt-1790848116020-84asn",
+      "countIndex": 6,
+      "timestamp": "2026-10-01T09:48:36.020Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.8
+    },
+    {
+      "id": "evt-1790848112849-ulaq0",
+      "countIndex": 5,
+      "timestamp": "2026-10-01T09:48:32.849Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 43.5
+    },
+    {
+      "id": "evt-1790848110649-2gcft",
+      "countIndex": 4,
+      "timestamp": "2026-10-01T09:48:30.649Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.5
+    },
+    {
+      "id": "evt-1790848108084-lb4rp",
+      "countIndex": 3,
+      "timestamp": "2026-10-01T09:48:28.084Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 26.3
+    },
+    {
+      "id": "evt-1790848098893-iky60",
+      "countIndex": 2,
+      "timestamp": "2026-10-01T09:48:18.893Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 26.4
+    },
+    {
+      "id": "evt-1790848095090-ayb7p",
+      "countIndex": 1,
+      "timestamp": "2026-10-01T09:48:15.090Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.5
+    },
+    {
+      "id": "evt-1790846249557-j3dq4",
+      "countIndex": 74,
+      "timestamp": "2026-10-01T09:17:29.557Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 23.6
+    },
+    {
+      "id": "evt-1790846247575-7md91",
+      "countIndex": 73,
+      "timestamp": "2026-10-01T09:17:27.574Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.4
+    },
+    {
+      "id": "evt-1790846244834-rs93i",
+      "countIndex": 72,
+      "timestamp": "2026-10-01T09:17:24.834Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.2
+    },
+    {
+      "id": "evt-1790846242701-6wzrj",
+      "countIndex": 71,
+      "timestamp": "2026-10-01T09:17:22.701Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.3
+    },
+    {
+      "id": "evt-1790846240514-pf1xs",
+      "countIndex": 70,
+      "timestamp": "2026-10-01T09:17:20.514Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 23.6
+    },
+    {
+      "id": "evt-1790846237554-892ld",
+      "countIndex": 69,
+      "timestamp": "2026-10-01T09:17:17.553Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.5
+    },
+    {
+      "id": "evt-1790846235399-e1wmv",
+      "countIndex": 68,
+      "timestamp": "2026-10-01T09:17:15.399Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 52.9
+    },
+    {
+      "id": "evt-1790846233225-nfrl8",
+      "countIndex": 67,
+      "timestamp": "2026-10-01T09:17:13.225Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 73.5
+    },
+    {
+      "id": "evt-1790846230625-giqiy",
+      "countIndex": 66,
+      "timestamp": "2026-10-01T09:17:10.625Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.7
+    },
+    {
+      "id": "evt-1790846226396-ze610",
+      "countIndex": 65,
+      "timestamp": "2026-10-01T09:17:06.396Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 22.2
+    },
+    {
+      "id": "evt-1790846224210-mh78t",
+      "countIndex": 64,
+      "timestamp": "2026-10-01T09:17:04.210Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 22.8
+    },
+    {
+      "id": "evt-1790846220303-4eum3",
+      "countIndex": 63,
+      "timestamp": "2026-10-01T09:17:00.303Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 52.7
+    },
+    {
+      "id": "evt-1790846216975-v49pp",
+      "countIndex": 62,
+      "timestamp": "2026-10-01T09:16:56.975Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.3
+    },
+    {
+      "id": "evt-1790846207453-uvdkc",
+      "countIndex": 61,
+      "timestamp": "2026-10-01T09:16:47.453Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.8
+    },
+    {
+      "id": "evt-1790846201083-72sl3",
+      "countIndex": 60,
+      "timestamp": "2026-10-01T09:16:41.083Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 58.9
+    },
+    {
+      "id": "evt-1790846198134-grfjm",
+      "countIndex": 59,
+      "timestamp": "2026-10-01T09:16:38.134Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.1
+    },
+    {
+      "id": "evt-1790846194543-xf534",
+      "countIndex": 58,
+      "timestamp": "2026-10-01T09:16:34.543Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 49.2
+    },
+    {
+      "id": "evt-1790846158340-osdy6",
+      "countIndex": 57,
+      "timestamp": "2026-10-01T09:15:58.340Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.5
+    },
+    {
+      "id": "evt-1790846144824-rm9ry",
+      "countIndex": 56,
+      "timestamp": "2026-10-01T09:15:44.824Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.9
+    },
+    {
+      "id": "evt-1790846142654-obkzt",
+      "countIndex": 55,
+      "timestamp": "2026-10-01T09:15:42.654Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.9
+    },
+    {
+      "id": "evt-1790846140313-b3f9x",
+      "countIndex": 54,
+      "timestamp": "2026-10-01T09:15:40.313Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.9
+    },
+    {
+      "id": "evt-1790846138152-g39bv",
+      "countIndex": 53,
+      "timestamp": "2026-10-01T09:15:38.152Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32
+    },
+    {
+      "id": "evt-1790846135987-91jdv",
+      "countIndex": 52,
+      "timestamp": "2026-10-01T09:15:35.987Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 33.4
+    },
+    {
+      "id": "evt-1790846133807-8p4jp",
+      "countIndex": 51,
+      "timestamp": "2026-10-01T09:15:33.807Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.3
+    },
+    {
+      "id": "evt-1790846106785-5uws9",
+      "countIndex": 50,
+      "timestamp": "2026-10-01T09:15:06.785Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.3
+    },
+    {
+      "id": "evt-1790846104465-s0263",
+      "countIndex": 49,
+      "timestamp": "2026-10-01T09:15:04.465Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 36.2
+    },
+    {
+      "id": "evt-1790846101885-pbnck",
+      "countIndex": 48,
+      "timestamp": "2026-10-01T09:15:01.885Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.5
+    },
+    {
+      "id": "evt-1790846099653-7tf3l",
+      "countIndex": 47,
+      "timestamp": "2026-10-01T09:14:59.653Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 36.7
+    },
+    {
+      "id": "evt-1790846095821-1n6cd",
+      "countIndex": 46,
+      "timestamp": "2026-10-01T09:14:55.821Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.4
+    },
+    {
+      "id": "evt-1790846093016-jioes",
+      "countIndex": 45,
+      "timestamp": "2026-10-01T09:14:53.016Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 26.5
+    },
+    {
+      "id": "evt-1790846074530-60xnz",
+      "countIndex": 44,
+      "timestamp": "2026-10-01T09:14:34.530Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 34.6
+    },
+    {
+      "id": "evt-1790846072385-m42qu",
+      "countIndex": 43,
+      "timestamp": "2026-10-01T09:14:32.385Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 30.5
+    },
+    {
+      "id": "evt-1790846069736-alzkc",
+      "countIndex": 42,
+      "timestamp": "2026-10-01T09:14:29.736Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.8
+    },
+    {
+      "id": "evt-1790846067393-hzbj9",
+      "countIndex": 41,
+      "timestamp": "2026-10-01T09:14:27.393Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.6
+    },
+    {
+      "id": "evt-1790846065034-iw8eu",
+      "countIndex": 40,
+      "timestamp": "2026-10-01T09:14:25.034Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.1
+    },
+    {
+      "id": "evt-1790846062731-18k4x",
+      "countIndex": 39,
+      "timestamp": "2026-10-01T09:14:22.731Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.3
+    },
+    {
+      "id": "evt-1790846058904-uepkw",
+      "countIndex": 38,
+      "timestamp": "2026-10-01T09:14:18.904Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 44.1
+    },
+    {
+      "id": "evt-1790846050823-xvs09",
+      "countIndex": 37,
+      "timestamp": "2026-10-01T09:14:10.823Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 40.3
+    },
+    {
+      "id": "evt-1790846048017-qrlkm",
+      "countIndex": 36,
+      "timestamp": "2026-10-01T09:14:08.017Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 40.7
+    },
+    {
+      "id": "evt-1790846045717-d6z0r",
+      "countIndex": 35,
+      "timestamp": "2026-10-01T09:14:05.717Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 37.6
+    },
+    {
+      "id": "evt-1790846042978-7ganw",
+      "countIndex": 34,
+      "timestamp": "2026-10-01T09:14:02.978Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 36.5
+    },
+    {
+      "id": "evt-1790846040417-2oiwq",
+      "countIndex": 33,
+      "timestamp": "2026-10-01T09:14:00.417Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 33.9
+    },
+    {
+      "id": "evt-1790846038256-u0g84",
+      "countIndex": 32,
+      "timestamp": "2026-10-01T09:13:58.256Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.4
+    },
+    {
+      "id": "evt-1790846035157-l4vpr",
+      "countIndex": 31,
+      "timestamp": "2026-10-01T09:13:55.157Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.3
+    },
+    {
+      "id": "evt-1790846032872-dwq1n",
+      "countIndex": 30,
+      "timestamp": "2026-10-01T09:13:52.872Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 26.3
+    },
+    {
+      "id": "evt-1790846028297-xsios",
+      "countIndex": 29,
+      "timestamp": "2026-10-01T09:13:48.297Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 28.2
+    },
+    {
+      "id": "evt-1790846018339-lgq0q",
+      "countIndex": 28,
+      "timestamp": "2026-10-01T09:13:38.339Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 44.6
+    },
+    {
+      "id": "evt-1790846012495-q1i54",
+      "countIndex": 27,
+      "timestamp": "2026-10-01T09:13:32.495Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.5
+    },
+    {
+      "id": "evt-1790846008436-8aan7",
+      "countIndex": 26,
+      "timestamp": "2026-10-01T09:13:28.436Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 25.7
+    },
+    {
+      "id": "evt-1790846006217-xfb6b",
+      "countIndex": 25,
+      "timestamp": "2026-10-01T09:13:26.217Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 22.1
+    },
+    {
+      "id": "evt-1790846004056-o425h",
+      "countIndex": 24,
+      "timestamp": "2026-10-01T09:13:24.056Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.9
+    },
+    {
+      "id": "evt-1790846001895-om4rr",
+      "countIndex": 23,
+      "timestamp": "2026-10-01T09:13:21.895Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.8
+    },
+    {
+      "id": "evt-1790845991596-sdyww",
+      "countIndex": 22,
+      "timestamp": "2026-10-01T09:13:11.596Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.8
+    },
+    {
+      "id": "evt-1790845988764-c0cuf",
+      "countIndex": 21,
+      "timestamp": "2026-10-01T09:13:08.764Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.6
+    },
+    {
+      "id": "evt-1790845984400-vpuhe",
+      "countIndex": 20,
+      "timestamp": "2026-10-01T09:13:04.400Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 25.6
+    },
+    {
+      "id": "evt-1790845979659-cfvox",
+      "countIndex": 19,
+      "timestamp": "2026-10-01T09:12:59.659Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.6
+    },
+    {
+      "id": "evt-1790845962656-bl5dz",
+      "countIndex": 18,
+      "timestamp": "2026-10-01T09:12:42.656Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.9
+    },
+    {
+      "id": "evt-1790845957597-k8m8j",
+      "countIndex": 17,
+      "timestamp": "2026-10-01T09:12:37.597Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 29.4
+    },
+    {
+      "id": "evt-1790845951097-3j7rk",
+      "countIndex": 16,
+      "timestamp": "2026-10-01T09:12:31.097Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 42.8
+    },
+    {
+      "id": "evt-1790845933797-hxyvs",
+      "countIndex": 15,
+      "timestamp": "2026-10-01T09:12:13.797Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 22.8
+    },
+    {
+      "id": "evt-1790845930896-ttjtj",
+      "countIndex": 14,
+      "timestamp": "2026-10-01T09:12:10.896Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 22.9
+    },
+    {
+      "id": "evt-1790845928195-fbxeq",
+      "countIndex": 13,
+      "timestamp": "2026-10-01T09:12:08.195Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 30.3
+    },
+    {
+      "id": "evt-1790845925678-g6v2r",
+      "countIndex": 12,
+      "timestamp": "2026-10-01T09:12:05.678Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20
+    },
+    {
+      "id": "evt-1790845917915-8xw26",
+      "countIndex": 11,
+      "timestamp": "2026-10-01T09:11:57.915Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.2
+    },
+    {
+      "id": "evt-1790845912017-wj079",
+      "countIndex": 10,
+      "timestamp": "2026-10-01T09:11:52.017Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 24.5
+    },
+    {
+      "id": "evt-1790845909855-jnkf3",
+      "countIndex": 9,
+      "timestamp": "2026-10-01T09:11:49.855Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 19.8
+    },
+    {
+      "id": "evt-1790845907699-mty7g",
+      "countIndex": 8,
+      "timestamp": "2026-10-01T09:11:47.699Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.7
+    },
+    {
+      "id": "evt-1790845892059-tbxoy",
+      "countIndex": 7,
+      "timestamp": "2026-10-01T09:11:32.059Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.8
+    },
+    {
+      "id": "evt-1790845888976-plf1b",
+      "countIndex": 6,
+      "timestamp": "2026-10-01T09:11:28.976Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.8
+    },
+    {
+      "id": "evt-1790845873076-jv3wr",
+      "countIndex": 5,
+      "timestamp": "2026-10-01T09:11:13.076Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.4
+    },
+    {
+      "id": "evt-1790845870335-nl35l",
+      "countIndex": 4,
+      "timestamp": "2026-10-01T09:11:10.335Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 29.1
+    },
+    {
+      "id": "evt-1790845867516-8a2qn",
+      "countIndex": 3,
+      "timestamp": "2026-10-01T09:11:07.516Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 27.9
+    },
+    {
+      "id": "evt-1790845830514-8pviv",
+      "countIndex": 2,
+      "timestamp": "2026-10-01T09:10:30.514Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 23.1
+    },
+    {
+      "id": "evt-1790845828155-sn9br",
+      "countIndex": 1,
+      "timestamp": "2026-10-01T09:10:28.155Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.1
+    },
+    {
+      "id": "evt-1790845801998-imdma",
+      "countIndex": 4,
+      "timestamp": "2026-10-01T09:10:01.998Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.1
+    },
+    {
+      "id": "evt-1790845799458-q2j22",
+      "countIndex": 3,
+      "timestamp": "2026-10-01T09:09:59.458Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.2
+    },
+    {
+      "id": "evt-1790845796556-cwavr",
+      "countIndex": 2,
+      "timestamp": "2026-10-01T09:09:56.556Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21
+    },
+    {
+      "id": "evt-1790845793556-kev7u",
+      "countIndex": 1,
+      "timestamp": "2026-10-01T09:09:53.556Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 28
+    },
+    {
+      "id": "evt-1790844636460-ydvup",
+      "countIndex": 34,
+      "timestamp": "2026-10-01T08:50:36.460Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 36.9
+    },
+    {
+      "id": "evt-1790844633809-97j8z",
+      "countIndex": 33,
+      "timestamp": "2026-10-01T08:50:33.809Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 59.1
+    },
+    {
+      "id": "evt-1790844629052-jlxyc",
+      "countIndex": 32,
+      "timestamp": "2026-10-01T08:50:29.052Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 56.9
+    },
+    {
+      "id": "evt-1790844626860-pslj8",
+      "countIndex": 31,
+      "timestamp": "2026-10-01T08:50:26.860Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 54.7
+    },
+    {
+      "id": "evt-1790844624680-s12cc",
+      "countIndex": 30,
+      "timestamp": "2026-10-01T08:50:24.680Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 52.4
+    },
+    {
+      "id": "evt-1790844622534-cq2w3",
+      "countIndex": 29,
+      "timestamp": "2026-10-01T08:50:22.534Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.6
+    },
+    {
+      "id": "evt-1790843635225-9h6ef",
+      "countIndex": 28,
+      "timestamp": "2026-10-01T08:33:55.225Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32
+    },
+    {
+      "id": "evt-1790843633050-c8yu3",
+      "countIndex": 27,
+      "timestamp": "2026-10-01T08:33:53.050Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.5
+    },
+    {
+      "id": "evt-1790843630885-y79um",
+      "countIndex": 26,
+      "timestamp": "2026-10-01T08:33:50.885Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.9
+    },
+    {
+      "id": "evt-1790843628596-vxc7z",
+      "countIndex": 25,
+      "timestamp": "2026-10-01T08:33:48.596Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 34.1
+    },
+    {
+      "id": "evt-1790843626428-4cb7z",
+      "countIndex": 24,
+      "timestamp": "2026-10-01T08:33:46.428Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 33.3
+    },
+    {
+      "id": "evt-1790843624266-uxu8u",
+      "countIndex": 23,
+      "timestamp": "2026-10-01T08:33:44.266Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.7
+    },
+    {
+      "id": "evt-1790843622086-cl95r",
+      "countIndex": 22,
+      "timestamp": "2026-10-01T08:33:42.086Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 28.6
+    },
+    {
+      "id": "evt-1790843619325-vqm7o",
+      "countIndex": 21,
+      "timestamp": "2026-10-01T08:33:39.325Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 23.4
+    },
+    {
+      "id": "evt-1790843260385-uxmrx",
+      "countIndex": 20,
+      "timestamp": "2026-10-01T08:27:40.385Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 19.9
+    },
+    {
+      "id": "evt-1790843245826-bmbuk",
+      "countIndex": 19,
+      "timestamp": "2026-10-01T08:27:25.826Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.4
+    },
+    {
+      "id": "evt-1790843243665-v5123",
+      "countIndex": 18,
+      "timestamp": "2026-10-01T08:27:23.665Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.3
+    },
+    {
+      "id": "evt-1790843241504-363sv",
+      "countIndex": 17,
+      "timestamp": "2026-10-01T08:27:21.504Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.3
+    },
+    {
+      "id": "evt-1790843239325-lr4vn",
+      "countIndex": 16,
+      "timestamp": "2026-10-01T08:27:19.325Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20
+    },
+    {
+      "id": "evt-1790843237200-hrnfl",
+      "countIndex": 15,
+      "timestamp": "2026-10-01T08:27:17.200Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.5
+    },
+    {
+      "id": "evt-1790843234881-7ev4m",
+      "countIndex": 14,
+      "timestamp": "2026-10-01T08:27:14.881Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 19.6
+    },
+    {
+      "id": "evt-1790843232587-4cl0t",
+      "countIndex": 13,
+      "timestamp": "2026-10-01T08:27:12.587Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21
+    },
+    {
+      "id": "evt-1790843230350-baiix",
+      "countIndex": 12,
+      "timestamp": "2026-10-01T08:27:10.350Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.4
+    },
+    {
+      "id": "evt-1790843228160-64o8d",
+      "countIndex": 11,
+      "timestamp": "2026-10-01T08:27:08.160Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.7
+    },
+    {
+      "id": "evt-1790843225227-t4s8m",
+      "countIndex": 10,
+      "timestamp": "2026-10-01T08:27:05.227Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.4
+    },
+    {
+      "id": "evt-1790843201734-fhrag",
+      "countIndex": 9,
+      "timestamp": "2026-10-01T08:26:41.734Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.8
+    },
+    {
+      "id": "evt-1790843198800-9zwc4",
+      "countIndex": 8,
+      "timestamp": "2026-10-01T08:26:38.800Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 40.5
+    },
+    {
+      "id": "evt-1790843194741-ue6kz",
+      "countIndex": 7,
+      "timestamp": "2026-10-01T08:26:34.741Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 27.4
+    },
+    {
+      "id": "evt-1790843192550-fjpuq",
+      "countIndex": 6,
+      "timestamp": "2026-10-01T08:26:32.550Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20
+    },
+    {
+      "id": "evt-1790843189610-h8wxl",
+      "countIndex": 5,
+      "timestamp": "2026-10-01T08:26:29.610Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20
+    },
+    {
+      "id": "evt-1790843186895-bscb7",
+      "countIndex": 4,
+      "timestamp": "2026-10-01T08:26:26.895Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.1
+    },
+    {
+      "id": "evt-1790843182980-90eq2",
+      "countIndex": 3,
+      "timestamp": "2026-10-01T08:26:22.980Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20
+    },
+    {
+      "id": "evt-1790843180454-qntoq",
+      "countIndex": 2,
+      "timestamp": "2026-10-01T08:26:20.454Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 38.8
+    },
+    {
+      "id": "evt-1790843176295-0bcyi",
+      "countIndex": 1,
+      "timestamp": "2026-10-01T08:26:16.295Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32
+    },
+    {
+      "id": "evt-1790842755837-955sq",
+      "countIndex": 67,
+      "timestamp": "2026-10-01T08:19:15.837Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.4
+    },
+    {
+      "id": "evt-1790842751411-26rtv",
+      "countIndex": 66,
+      "timestamp": "2026-10-01T08:19:11.411Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 30.2
+    },
+    {
+      "id": "evt-1790842749134-mf7cr",
+      "countIndex": 65,
+      "timestamp": "2026-10-01T08:19:09.134Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 24.6
+    },
+    {
+      "id": "evt-1790842746971-h0e00",
+      "countIndex": 64,
+      "timestamp": "2026-10-01T08:19:06.971Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.1
+    },
+    {
+      "id": "evt-1790842744363-ta7c5",
+      "countIndex": 63,
+      "timestamp": "2026-10-01T08:19:04.363Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 33.1
+    },
+    {
+      "id": "evt-1790842742184-fpk8p",
+      "countIndex": 62,
+      "timestamp": "2026-10-01T08:19:02.184Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 33.2
+    },
+    {
+      "id": "evt-1790842739907-txqn0",
+      "countIndex": 61,
+      "timestamp": "2026-10-01T08:18:59.907Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 60.6
+    },
+    {
+      "id": "evt-1790842733361-a28cp",
+      "countIndex": 60,
+      "timestamp": "2026-10-01T08:18:53.361Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 19.9
+    },
+    {
+      "id": "evt-1790842725887-7ukx0",
+      "countIndex": 59,
+      "timestamp": "2026-10-01T08:18:45.887Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 19.8
+    },
+    {
+      "id": "evt-1790842723723-7vb9z",
+      "countIndex": 58,
+      "timestamp": "2026-10-01T08:18:43.723Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 43.6
+    },
+    {
+      "id": "evt-1790842712893-ga0kv",
+      "countIndex": 57,
+      "timestamp": "2026-10-01T08:18:32.893Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 30.7
+    },
+    {
+      "id": "evt-1790842707276-2dplh",
+      "countIndex": 56,
+      "timestamp": "2026-10-01T08:18:27.276Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32
+    },
+    {
+      "id": "evt-1790842704872-t0n5i",
+      "countIndex": 55,
+      "timestamp": "2026-10-01T08:18:24.872Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 53.9
+    },
+    {
+      "id": "evt-1790842701627-1vut8",
+      "countIndex": 54,
+      "timestamp": "2026-10-01T08:18:21.627Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.1
+    },
+    {
+      "id": "evt-1790842699004-00wnr",
+      "countIndex": 53,
+      "timestamp": "2026-10-01T08:18:19.004Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 22.6
+    },
+    {
+      "id": "evt-1790842696835-on0i8",
+      "countIndex": 52,
+      "timestamp": "2026-10-01T08:18:16.835Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 88.2
+    },
+    {
+      "id": "evt-1790842624112-6lvv0",
+      "countIndex": 51,
+      "timestamp": "2026-10-01T08:17:04.112Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.2
+    },
+    {
+      "id": "evt-1790842553417-xsdgw",
+      "countIndex": 50,
+      "timestamp": "2026-10-01T08:15:53.417Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 23.5
+    },
+    {
+      "id": "evt-1790842547985-3tauk",
+      "countIndex": 49,
+      "timestamp": "2026-10-01T08:15:47.985Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20
+    },
+    {
+      "id": "evt-1790842545814-cj2y6",
+      "countIndex": 48,
+      "timestamp": "2026-10-01T08:15:45.814Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 23.3
+    },
+    {
+      "id": "evt-1790842540771-89rd8",
+      "countIndex": 47,
+      "timestamp": "2026-10-01T08:15:40.771Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.1
+    },
+    {
+      "id": "evt-1790842538606-i746z",
+      "countIndex": 46,
+      "timestamp": "2026-10-01T08:15:38.606Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.1
+    },
+    {
+      "id": "evt-1790842534899-5jqxl",
+      "countIndex": 45,
+      "timestamp": "2026-10-01T08:15:34.899Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 53.2
+    },
+    {
+      "id": "evt-1790842463123-7kpsr",
+      "countIndex": 44,
+      "timestamp": "2026-10-01T08:14:23.123Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 65
+    },
+    {
+      "id": "evt-1790842411289-fj9i0",
+      "countIndex": 42,
+      "timestamp": "2026-10-01T08:13:31.289Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20
+    },
+    {
+      "id": "evt-1790842388895-7ncw3",
+      "countIndex": 41,
+      "timestamp": "2026-10-01T08:13:08.895Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.2
+    },
+    {
+      "id": "evt-1790842375480-fesj8",
+      "countIndex": 40,
+      "timestamp": "2026-10-01T08:12:55.480Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 83.8
+    },
+    {
+      "id": "evt-1790842310733-z81ii",
+      "countIndex": 39,
+      "timestamp": "2026-10-01T08:11:50.733Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 27.4
+    },
+    {
+      "id": "evt-1790842306233-5ykbp",
+      "countIndex": 38,
+      "timestamp": "2026-10-01T08:11:46.233Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 58.8
+    },
+    {
+      "id": "evt-1790842300896-grdwm",
+      "countIndex": 37,
+      "timestamp": "2026-10-01T08:11:40.896Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 22.9
+    },
+    {
+      "id": "evt-1790842295799-uibli",
+      "countIndex": 36,
+      "timestamp": "2026-10-01T08:11:35.799Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 24.5
+    },
+    {
+      "id": "evt-1790842293226-yyay0",
+      "countIndex": 35,
+      "timestamp": "2026-10-01T08:11:33.226Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 32.7
+    },
+    {
+      "id": "evt-1790842291430-xayme",
+      "countIndex": 34,
+      "timestamp": "2026-10-01T08:11:31.430Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21.5
+    },
+    {
+      "id": "evt-1790842288712-axaj6",
+      "countIndex": 33,
+      "timestamp": "2026-10-01T08:11:28.712Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 36.7
+    },
+    {
+      "id": "evt-1790842286562-gw9oi",
+      "countIndex": 32,
+      "timestamp": "2026-10-01T08:11:26.562Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.2
+    },
+    {
+      "id": "evt-1790842284371-hdiqa",
+      "countIndex": 31,
+      "timestamp": "2026-10-01T08:11:24.371Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 30.2
+    },
+    {
+      "id": "evt-1790842272151-lhwc4",
+      "countIndex": 30,
+      "timestamp": "2026-10-01T08:11:12.151Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 22.8
+    },
+    {
+      "id": "evt-1790842267584-ov9ks",
+      "countIndex": 29,
+      "timestamp": "2026-10-01T08:11:07.584Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 20.2
+    },
+    {
+      "id": "evt-1790842251061-5ad2v",
+      "countIndex": 28,
+      "timestamp": "2026-10-01T08:10:51.061Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 19.9
+    },
+    {
+      "id": "evt-1790842235914-tqpvz",
+      "countIndex": 27,
+      "timestamp": "2026-10-01T08:10:35.914Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 37.9
+    },
+    {
+      "id": "evt-1790842226352-relti",
+      "countIndex": 26,
+      "timestamp": "2026-10-01T08:10:26.352Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 26.6
+    },
+    {
+      "id": "evt-1790842222864-yi0fh",
+      "countIndex": 25,
+      "timestamp": "2026-10-01T08:10:22.864Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.8
+    },
+    {
+      "id": "evt-1790842215151-eccur",
+      "countIndex": 24,
+      "timestamp": "2026-10-01T08:10:15.151Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 37
+    },
+    {
+      "id": "evt-1790842212992-ww4us",
+      "countIndex": 23,
+      "timestamp": "2026-10-01T08:10:12.992Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 21
+    },
+    {
+      "id": "evt-1790842210630-7322h",
+      "countIndex": 22,
+      "timestamp": "2026-10-01T08:10:10.630Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.1
+    },
+    {
+      "id": "evt-1790842207093-0a1cg",
+      "countIndex": 21,
+      "timestamp": "2026-10-01T08:10:07.093Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 24.4
+    },
+    {
+      "id": "evt-1790842192576-3e5hp",
+      "countIndex": 20,
+      "timestamp": "2026-10-01T08:09:52.576Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 38.7
+    },
+    {
+      "id": "evt-1790842190659-4qc6c",
+      "countIndex": 19,
+      "timestamp": "2026-10-01T08:09:50.659Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 38.6
+    },
+    {
+      "id": "evt-1790842188248-zwxf9",
+      "countIndex": 18,
+      "timestamp": "2026-10-01T08:09:48.248Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 33.2
+    },
+    {
+      "id": "evt-1790842186074-nfuqj",
+      "countIndex": 17,
+      "timestamp": "2026-10-01T08:09:46.074Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.8
+    },
+    {
+      "id": "evt-1790842170230-c9rbh",
+      "countIndex": 16,
+      "timestamp": "2026-10-01T08:09:30.230Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 36.6
+    },
+    {
+      "id": "evt-1790842168053-rmskq",
+      "countIndex": 15,
+      "timestamp": "2026-10-01T08:09:28.053Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.3
+    },
+    {
+      "id": "evt-1790842165891-5x371",
+      "countIndex": 14,
+      "timestamp": "2026-10-01T08:09:25.891Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.5
+    },
+    {
+      "id": "evt-1790842163744-usg7y",
+      "countIndex": 13,
+      "timestamp": "2026-10-01T08:09:23.744Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 36.7
+    },
+    {
+      "id": "evt-1790842161564-0n9qv",
+      "countIndex": 12,
+      "timestamp": "2026-10-01T08:09:21.564Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35
+    },
+    {
+      "id": "evt-1790842158313-d2zuf",
+      "countIndex": 11,
+      "timestamp": "2026-10-01T08:09:18.313Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.8
+    },
+    {
+      "id": "evt-1790842156113-l819y",
+      "countIndex": 10,
+      "timestamp": "2026-10-01T08:09:16.113Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.9
+    },
+    {
+      "id": "evt-1790842153950-3waou",
+      "countIndex": 9,
+      "timestamp": "2026-10-01T08:09:13.950Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.9
+    },
+    {
+      "id": "evt-1790842151801-153vz",
+      "countIndex": 8,
+      "timestamp": "2026-10-01T08:09:11.801Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 41.8
+    },
+    {
+      "id": "evt-1790842149619-dz8ma",
+      "countIndex": 7,
+      "timestamp": "2026-10-01T08:09:09.619Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 79
+    },
+    {
+      "id": "evt-1790842111541-lg04w",
+      "countIndex": 6,
+      "timestamp": "2026-10-01T08:08:31.541Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 55.9
+    },
+    {
+      "id": "evt-1790842105339-96681",
+      "countIndex": 5,
+      "timestamp": "2026-10-01T08:08:25.339Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 61.5
+    },
+    {
+      "id": "evt-1790842101263-fd48g",
+      "countIndex": 4,
+      "timestamp": "2026-10-01T08:08:21.263Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 70.3
+    },
+    {
+      "id": "evt-1790842096070-a0e6f",
+      "countIndex": 3,
+      "timestamp": "2026-10-01T08:08:16.069Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 81
+    },
+    {
+      "id": "evt-1790842090802-7185a",
+      "countIndex": 2,
+      "timestamp": "2026-10-01T08:08:10.802Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 35.6
+    },
+    {
+      "id": "evt-1790842086083-7frm9",
+      "countIndex": 1,
+      "timestamp": "2026-10-01T08:08:06.083Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 26.3
+    },
+    {
+      "id": "evt-1790842035276-zyab3",
+      "countIndex": 74,
+      "timestamp": "2026-10-01T08:07:15.276Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 24.3
+    },
+    {
+      "id": "evt-1790842034020-05ip0",
+      "countIndex": 73,
+      "timestamp": "2026-10-01T08:07:14.020Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 23.9
+    },
+    {
+      "id": "evt-1790842032638-q1vwz",
+      "countIndex": 72,
+      "timestamp": "2026-10-01T08:07:12.638Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 24.6
+    },
+    {
+      "id": "evt-1790842031287-l2z58",
+      "countIndex": 71,
+      "timestamp": "2026-10-01T08:07:11.287Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 71.4
+    },
+    {
+      "id": "evt-1790842023349-nv671",
+      "countIndex": 70,
+      "timestamp": "2026-10-01T08:07:03.349Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 69
+    },
+    {
+      "id": "evt-1790842022115-i5tpe",
+      "countIndex": 69,
+      "timestamp": "2026-10-01T08:07:02.115Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 31.4
+    },
+    {
+      "id": "evt-1790842020840-457yv",
+      "countIndex": 68,
+      "timestamp": "2026-10-01T08:07:00.840Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 26.4
+    },
+    {
+      "id": "evt-1790842014079-z65rc",
+      "countIndex": 67,
+      "timestamp": "2026-10-01T08:06:54.079Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 19.7
+    },
+    {
+      "id": "evt-1790842012779-f7tjo",
+      "countIndex": 66,
+      "timestamp": "2026-10-01T08:06:52.779Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 76.9
+    },
+    {
+      "id": "evt-1790842007770-viwhs",
+      "countIndex": 65,
+      "timestamp": "2026-10-01T08:06:47.770Z",
+      "deviceId": "ESP32-Ultrasonic-01",
+      "locationName": "จุดตรวจนับคนเดินผ่าน (HC-SR04)",
+      "source": "esp32-wifi",
+      "distance": 78.3
+    }
+  ]
+}

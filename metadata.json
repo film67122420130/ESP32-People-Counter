@@ -1,0 +1,6 @@
+{
+  "name": "ESP32 Telemetry Studio",
+  "description": "ระบบรับค่าเซนเซอร์และควบคุมบอร์ดไมโครคอนโทรลเลอร์ ESP32 แบบเรียลไทม์ผ่าน WiFi HTTP API และ USB Web Serial พร้อมกราฟวิเคราะห์ข้อมูลและตัวสร้างโค้ด Arduino",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
